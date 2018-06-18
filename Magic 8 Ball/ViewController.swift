@@ -3,7 +3,7 @@
 //  Magic 8 Ball
 //
 //  Created by Dimitrios Papageorgiou on 8/22/17.
-//  Copyright © 2017 Dimitrios Papageorgiou. All rights reserved.
+//  Copyright © London App Brewery. All rights reserved.
 //
 
 import UIKit
